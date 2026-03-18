@@ -1,21 +1,3 @@
-<<<<<<< HEAD
-# flutter_app2
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # PPB-Tugas2-Widget
->>>>>>> 7eab2c48d258a0e6bac1b4de347ba8cbf39470cf
+
+<img width="941" height="721" alt="widget_tree drawio" src="https://github.com/user-attachments/assets/690c4a03-bada-4237-af80-cafe20cbe52b" />
